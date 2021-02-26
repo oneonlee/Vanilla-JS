@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Casino Here!</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <h1>Random Number Game</h1>
+    <h2 id="showRange">Move the bar to select maximum number.</h2>
+    <form>
+      <input
+        id="limitGenerator"
+        type="range"
+        id="a"
+        name="ages"
+        min="0"
+        max="130"
+        step="5"
+        value="0"
+      />
+    </form>
+
+    <!-- <form> -->
+    <label for="userGuess">Guess the number : </label>
+    <input type="number" id="userGuess" name="userGuess" min="0" max="limit" />
+    <!-- <input type="submit" value="Play!" /> -->
+    <button id="playButton" type="button">Play!</button>
+    <!-- </form> -->
+
+    <div id="answer"></div>
+
+    <div id="result"></div>
+    <script src="src/index.js"></script>
+  </body>
+</html>
