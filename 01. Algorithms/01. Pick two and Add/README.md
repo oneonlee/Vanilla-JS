@@ -1,4 +1,4 @@
-# [Pick two and Add](https://oneonlee.github.io/01.%20Algorithms/01.%20Pick%20two%20and%20Add)
+# [Pick two and Add](https://oneonlee.github.io/Vanilla-JS/01.%20Algorithms/01.%20Pick%20two%20and%20Add)
 
 정수 배열 numbers가 주어집니다.<br/>
 numbers에서 서로 다른 인덱스에 있는
