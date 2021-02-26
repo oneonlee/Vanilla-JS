@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+button {
+  border: none;
+  color: blueviolet;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 5px;
+  background-color: transparent !important;
+}
