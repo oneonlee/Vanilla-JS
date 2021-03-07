@@ -3,6 +3,7 @@
 ### See Results!
 * [01. Algorithms](https://github.com/oneonlee/Vanilla-JS/tree/main/01.%20Algorithms)
   * [01. Pick two and Add](https://oneonlee.github.io/Vanilla-JS/01.%20Algorithms/01.%20Pick%20two%20and%20Add)
+* [02. Dark Mode Switch](https://oneonlee.github.io/Vanilla-JS/02.%20Dark%20Mode%20Switch)
 * [03. Event Handling](https://oneonlee.github.io/Vanilla-JS/03.%20Event%20Handling/)
 * [04. Responsive Web](https://oneonlee.github.io/Vanilla-JS/04.%20Responsive%20Web/)
 * [05. Xmas Countdown](https://oneonlee.github.io/Vanilla-JS/05.%20Xmas%20Countdown/)
