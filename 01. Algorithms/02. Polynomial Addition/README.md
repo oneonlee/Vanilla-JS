@@ -1,4 +1,4 @@
-# [Polynomial Addition](https://oneonlee.github.io/Vanilla-JS/01.%20Algorithms/02.%20Polynomial%20Addition)
+# Polynomial Addition
 
 **p(x) = 4x<sup>4</sup>+3x<sup>2</sup>+3 와 q(x) = 3x<sup>3</sup>+4x<sup>2</sup>+2x+1 을 더하면, 
 p(x) + q(x) = 4x<sup>4</sup>+3x<sup>3</sup>+7x<sup>2</sup>+2x+4 가 된다.**
