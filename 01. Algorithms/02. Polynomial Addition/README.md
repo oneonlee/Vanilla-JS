@@ -15,7 +15,7 @@ p(x) + q(x) = 4x<sup>4</sup>+3x<sup>3</sup>+7x<sup>2</sup>+2x+4 가 된다.**
   * 방법 2를 Linked List 형식으로 저장하는 방법
 
 ```javascript
-// 방법 1
+// 방법 1 - step1.js
 const polyObj = {
   p: [],
   q: [],
@@ -39,7 +39,7 @@ console.log(result);
 ## Step2. 이러한 연산을 수행하는 일반적인 프로그램을 인스턴스와 클래스를 활용해서 만들어 보자.
 
 ```javascript
-// 방법 1
+// 방법 1 - step2.js
 class PolyCal {
   constructor(p, q) {
     // code
