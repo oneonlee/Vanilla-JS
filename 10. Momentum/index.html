@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>2 Do List</title>
+    <meta charset="utf-8">
+
+    <!--구글 웹폰트 적용-->
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div class="js-clock clock">
+        <h1>00:00</h1>
+      </div>
+
+      <form class="js-form form">
+        <input type="text" placeholder="What is your name?"/>
+      </form>
+      <h4 class = "js-greetings greetings"></h4>
+
+      <form class="js-toDoForm" style="padding-top: 10px;">
+        <input type="text" placeholder="Write a to do." />
+      </form>
+      <ul class="js-toDoList">
+      <!-- Lists To Do -->
+      </ul>
+
+      <span class="js-weather weather"></span>
+    </div>
+    <script src="js/clock.js"></script>
+    <script src="js/greeting.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/weather.js"></script>
+    <script src="https://kit.fontawesome.com/5e3f6f5693.js" crossorigin="anonymous"></script>
+    
+  </body>
+</html>

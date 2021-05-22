@@ -1,0 +1,106 @@
+/* Color Palettes Sites : colorhunt.co */
+
+@font-face { /* 애플산돌고딕 폰트 적용 */
+  font-family: "SDGothic";
+  src: url("font/AppleSDGothicNeoM.ttf") format("truetype");
+  font-weight: normal;
+} /* 이후 "SDGothic"으로 폰트 적용 가능 */
+
+* {
+  font-family: 'SDGothic', 'Spectral', 'Nanum Myeongjo', serif;
+} /* 구글 웹폰트 적용 */
+
+body {
+  background-color:palegoldenrod;
+  color:#f5f4f4;
+}
+
+.toDoForm input,
+li {
+  width: 100px;
+}
+
+.clicked {
+  color:darkgoldenrod;
+}
+
+.container {
+  position: relative;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form,
+.greetings {
+  display: none;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.showing {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.bgImage{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  animation: fadeIn.5s linear;
+}
+
+.clock h1 {
+  font-family: 'Spectral';
+  font-size: 100px;
+  margin: 0;
+}
+
+.h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.h3 {
+  margin-top: 60px;
+}
+
+.h4 {
+  margin: 0;
+  font-size: 15px;
+}
+
+.h5 {
+  margin: 0;
+  font-size: 13px;
+}
+
+.js-toDoList {
+  padding-left: 0px;
+  padding-right: 30px;
+}
+
+button {
+    border-right-width: 6px;
+}
+
+.weather {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
