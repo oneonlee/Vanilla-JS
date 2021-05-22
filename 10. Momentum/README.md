@@ -1,8 +1,5 @@
-# Momentum
+# [Momentum](https://oneonlee.github.io/Vanilla-JS/10.%20Momentum/)
 A clone of the productivity chrome app Momentum on Vanilla JS
-
-## Result
-[Here](https://github.com/oneonlee/Vanilla-JS/tree/main/10.%20Momentum/index.html)
 
 ## References
 * [Momentum](https://purple402.github.io/vanilaJS-review/)
