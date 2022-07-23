@@ -1,7 +1,7 @@
 # Vanilla-JS
-## [결과물 한 눈에 보기! (클릭)](https://www.notion.so/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82)
 
----
+## [결과물 한 눈에 보기! (클릭)](https://sapphire-duchess-70c.notion.site/9241d8b531d44f06aea609dcb05893c1?v=6a90fa6c830f4aa3bbc4aedd5ddb7a82)
+
 
 ### See Results!
 * [01. Algorithms](https://github.com/oneonlee/Vanilla-JS/tree/main/01.%20Algorithms)
